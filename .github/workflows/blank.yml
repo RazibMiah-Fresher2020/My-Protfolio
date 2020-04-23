@@ -1,0 +1,369 @@
+	
+	<?php get_header();?>
+
+	<!--  particles  -->
+		<div id="particles-js"></div>
+		<!-- //particles -->
+
+		<?php get_template_part('banner');?>
+
+	<!-- services -->
+	<div class="why-choose-agile py-5" id="services">
+		<div class="container py-xl-5 py-lg-3">
+			<!-- heading title -->
+			<div class="mb-lg-5 mb-4 text-center">
+				<h3 class="title-wthree text-white mb-2">
+					<span class="text-dark mb-2">My Works</span>Excellent Services</h3>
+				<p class="sub-tittle">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<!-- //heading title -->
+			<div class="row agileits-w3layouts-grid pt-md-4">
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-affiliatetheme"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Creative Design</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-accusoft"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9  agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Web Design</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-forumbee"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Interface Design</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row agileits-w3layouts-grid my-lg-4">
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-audible"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">App UI Design</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-asymmetrik"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">UX Design</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fas fa-gamepad"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Game Apps</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row agileits-w3layouts-grid">
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fas fa-spinner"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Social Media</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-xbox"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Web Develop</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 services-agile-1" data-aos="zoom-in-up">
+					<div class="row wthree_agile_us py-md-4 py-3">
+						<div class="col-lg-3 col-sm-2 col-3 pr-lg-2">
+							<div class="wthree_features_grid text-center py-3">
+								<i class="fab fa-blackberry"></i>
+							</div>
+						</div>
+						<div class="col-lg-9 col-sm-10 col-9 agile-why-text">
+							<h4 class="text-white font-weight-bold mb-3">Web Apps</h4>
+							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //services -->
+
+	<!-- skills -->
+	<div class="graph py-5" id="skills">
+		<div class="container pt-xl-5 pt-lg-3">
+			<div class="row">
+				<div class="col-lg-5 some-info-w3ls" data-aos="zoom-out-right">
+					<div class="border-styles py-2 pl-4">
+						<h3 class="title-style mb-3">Design Skills</h3>
+						<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit</p>
+					</div>
+					<div class="row mt-xl-5 mt-4">
+						<div class="col-4 w3layouts_stats_left w3_counter_grid">
+							<p class="counter">1680</p>
+							<p class="para-text-w3ls text-dark">Design</p>
+						</div>
+						<div class="col-4 w3layouts_stats_left w3_counter_grid2">
+							<p class="counter">1200</p>
+							<p class="para-text-w3ls text-dark">Branding</p>
+						</div>
+						<div class="col-4 w3layouts_stats_left w3_counter_grid1">
+							<p class="counter">400</p>
+							<p class="para-text-w3ls text-dark">Ecommerce</p>
+						</div>
+					</div>
+				</div>
+				<!-- chart -->
+				<div class="col-lg-7 graph-w3ls mt-lg-0 mt-5" data-aos="zoom-out-left">
+					<div class="border-styles py-2 pl-4">
+						<h3 class="title-style mb-3">Developer Skills</h3>
+					</div>
+					<div id="chartdiv"></div>
+				</div>
+				<!-- //chart -->
+			</div>
+		</div>
+	</div>
+	<!-- //skills -->
+
+<!-- education -->
+	<div class="info-w3layouts" id="education">
+		<div class="w3l-overlay py-5">
+			<div class="container py-xl-5 py-lg-3">
+				<div class="edu-agile-info">
+					<div class="row">
+						<div class="col-lg-6" data-aos="fade-up"
+						data-aos-duration="3000">
+							<div class="grid-flex bg-white p-5">
+								<div class="pl-4 title-edu py-2 mb-5">
+									<i class="fas fa-book-reader mb-2"></i>
+									<h4 class="aboutbtm-head">My Education</h4>
+								</div>
+								<div class="grids-agiles-one">
+									<h5 class="text-dark mb-2">Phd Computer Science</h5>
+									<p>Ncididunt ut labore et t enim ad minim.</p>
+								</div>
+								<div class="grids-agiles-one my-3">
+									<h5 class="text-dark mb-2">University</h5>
+									<p>Ncididunt ut labore et t enim ad minim.</p>
+								</div>
+								<div class="grids-agiles-one">
+									<h5 class="text-dark mb-2">High School</h5>
+									<p>Ncididunt ut labore et t enim ad minim.</p>
+								</div>
+								<div class="style-book-wthree">
+									<i class="fas fa-book-open"></i>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 mt-lg-0 mt-5" data-aos="fade-up"
+						data-aos-duration="3000">
+							<div class="grid-flex bg-white p-5">
+								<div class="pl-4 title-edu py-2 mb-5">
+									<i class="fas fa-chalkboard-teacher mb-2"></i>
+									<h4 class="aboutbtm-head">My Experience</h4>
+								</div>
+								<div class="grids-agiles-one">
+									<h5 class="text-dark mb-2">Work in company "Available"</h5>
+									<p>20XX-20XX</p>
+								</div>
+								<div class="grids-agiles-one my-3">
+									<h5 class="text-dark mb-2">Work in company "Generators"</h5>
+									<p>20XX-20XX</p>
+								</div>
+								<div class="grids-agiles-one">
+									<h5 class="text-dark mb-2">Course designer - San Diego</h5>
+									<p>20XX-20XX</p>
+								</div>
+								<div class="style-book-wthree">
+									<i class="fas fa-edit"></i>
+								</div>
+							</div>
+						</div>>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //education -->
+
+
+	<!-- clients -->
+	<div class="testimonials py-5" id="clients">
+		<div class="container py-xl-5 py-lg-3">
+			<!-- heading title -->
+			<div class="mb-sm-5 mb-4 text-center">
+				<h3 class="title-wthree text-dark mb-2">
+					<span class="mb-2">Reviews</span>My Clients</h3>
+				<p class="sub-tittle-2">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<!-- //heading title -->
+			<div class="row">
+				<div class="col-lg-6 w3_testimonials_grids">
+					<section class="slider">
+						<div class="flexslider">
+							<ul class="slides">
+								<li>
+									<div class="w3_testimonials_grid px-xl-5 px-4 mt-xl-4 mx-auto">
+										<h4 class="text-dark text-center font-weight-light">
+											<i class="fas fa-quote-left mr-3"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+											impedit quo minus id quod possimus,
+											omnis voluptas<i class="fas fa-quote-right ml-3"></i>
+										</h4>
+										<div class="row mt-5">
+											<div class="col-6 test-agiles text-right">
+												<img src="<?php echo get_template_directory_uri(); ?> /images/te1.jpg" alt=" " class="img-fluid rounded-circle" />
+											</div>
+											<div class="col-6 right-text-agiles text-left mt-4">
+												<h5 class="font-weight-bold">John Frank</h5>
+												<p class="mt-2">Tempore Quo</p>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="w3_testimonials_grid px-xl-5 px-4 mt-xl-4 mx-auto">
+										<h4 class="text-dark text-center font-weight-light">
+											<i class="fas fa-quote-left mr-3"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+											impedit quo minus id quod possimus,
+											omnis voluptas<i class="fas fa-quote-right ml-3"></i>
+										</h4>
+										<div class="row mt-5">
+											<div class="col-6 test-agiles text-right">
+												<img src="<?php echo get_template_directory_uri(); ?> /images/te2.jpg" alt=" " class="img-fluid rounded-circle" />
+											</div>
+											<div class="col-6 right-text-agiles text-left mt-4">
+												<h5 class="font-weight-bold">Michael Doe</h5>
+												<p class="mt-2">Maxime Omni</p>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="w3_testimonials_grid px-xl-5 px-4 mt-xl-4 mx-auto">
+										<h4 class="text-dark text-center font-weight-light">
+											<i class="fas fa-quote-left mr-3"></i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+											impedit quo minus id quod possimus,
+											omnis voluptas<i class="fas fa-quote-right ml-3"></i>
+										</h4>
+										<div class="row mt-5">
+											<div class="col-6 test-agiles text-right">
+												<img src="<?php echo get_template_directory_uri(); ?> /images/te3.jpg" alt=" " class="img-fluid rounded-circle" />
+											</div>
+											<div class="col-6 right-text-agiles text-left mt-4">
+												<h5 class="font-weight-bold">Thomas Carl</h5>
+												<p class="mt-2">Placeat Quo</p>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</section>
+				</div>
+				<div class="col-lg-6 video-w3ls mt-lg-0 mt-sm-5 mt-4" data-aos="zoom-in-left">
+					<img src="<?php echo get_template_directory_uri(); ?> /images/testi.jpg" alt="" class="img-fluid">
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //clients -->
+
+
+
+	<!-- projects -->
+	<div class="gallery py-5" id="projects">
+		<div class="container py-xl-5 py-lg-3">
+			<!-- heading title -->
+			<div class="mb-lg-5 mb-4 text-center">
+				<h3 class="title-wthree text-dark mb-2">
+					<span class="mb-2">Gallery</span>My Projests</h3>
+				<p class="sub-tittle-2">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<!-- //heading title -->
+			<div class="gallery-grids" >
+				<section>
+					<ul id="da-thumbs" class="da-thumbs">
+					<?php the_post_thumbnail();?>
+						
+						<?php
+					if(have_posts ()):
+						while (have_posts()) : the_post();?>
+					<article><h2><a href="<?php the_permalink()?>"><?php the_title();?></a></h2>
+					<p><?php the_content()?></p>
+					</article>
+
+
+					<?php endwhile;
+					else:
+						echo 'Not Founfd';
+						endif;
+					 ?>
+						
+						
+					</ul>
+				</section>
+			</div>
+		</div>
+	</div>
+	<!--//gallery-->
+
+	
+	<?php get_footer();?>
+
+	
